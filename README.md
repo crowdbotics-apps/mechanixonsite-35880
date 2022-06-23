@@ -58,6 +58,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [terms-and-conditions]()
 - [screen-rate-the-app](screens/rate-the-app)
 - [privacy-policy]()
+- [screen-about-the-app](screens/about-the-app)
 
 # Getting started: Frontend
 
