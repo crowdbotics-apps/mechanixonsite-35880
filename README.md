@@ -59,6 +59,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-rate-the-app](screens/rate-the-app)
 - [privacy-policy]()
 - [screen-about-the-app](screens/about-the-app)
+- [react-native-maps](modules/maps)
 
 # Getting started: Frontend
 
