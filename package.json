@@ -23,6 +23,7 @@
     "@screens/menu": "file:./screens/menu/",
     "@screens/notifications": "file:./screens/notifications/",
     "@screens/rate-the-app": "file:./screens/rate-the-app/",
+    "@screens/wallet": "file:./screens/create-appointment/",
     "axios": "^0.21.1",
     "react": "17.0.1",
     "react-native": "0.64.0",
