@@ -998,6 +998,9 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
+"@modules/app-menu@file:./modules/app-menu/":
+  version "1.0.0"
+
 "@modules/maps@file:./modules/maps":
   version "1.0.0"
 
@@ -1236,7 +1239,7 @@
 "@screens/rate-the-app@file:./screens/rate-the-app":
   version "1.0.0"
 
-"@screens/wallet@file:./screens/create-appointment/":
+"@screens/wallet@file:./screens/create-appointment":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":

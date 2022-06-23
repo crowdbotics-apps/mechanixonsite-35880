@@ -63,6 +63,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-notifications-list](screens/notifications)
 - [screen-menu](screens/menu)
 - [screen-appointment-create](screens/create-appointment)
+- [react-native-app-menu](modules/app-menu)
 
 # Getting started: Frontend
 
