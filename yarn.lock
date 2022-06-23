@@ -1227,7 +1227,10 @@
 "@screens/about-the-app@file:./screens/about-the-app":
   version "1.0.0"
 
-"@screens/notifications@file:./screens/notifications/":
+"@screens/menu@file:./screens/menu/":
+  version "1.0.0"
+
+"@screens/notifications@file:./screens/notifications":
   version "1.0.0"
 
 "@screens/rate-the-app@file:./screens/rate-the-app":
